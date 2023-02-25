@@ -53,6 +53,7 @@ https://replit.com/@SarahAha1/batch06chatbotpizza#main.r
 ## Sprint 09 - Essential Python for Data Analyst
 
 - ทำการบ้านในคอร์ส pandas foundation
+ https://datalore.jetbrains.com/notebook/HPYV0dpUPdSQ1nMoroIPoZ/XQ302XAYabR5QWBXiOy6UG/
 - ลองเขียน requests ดึงข้อมูลจาก public API
 - ลองสร้าง simple ML model ด้วย sklearn
 
