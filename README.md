@@ -43,7 +43,6 @@ https://replit.com/@SarahAha1/batch06chatbotpizza#main.r
 - - Regression
 - - Classification
 - - K-Fold cross validation
-- นักเรียนสามารถหา free dataset ได้จาก data.world หรือ kaggle นะครับ จะลองเสิร์ชจาก google datasets ก็ได้นะครับ ⭐
 
 ## Sprint 08 - Python Programming
 
