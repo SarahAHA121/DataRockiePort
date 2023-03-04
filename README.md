@@ -1,6 +1,9 @@
 # Data Science Bootcamp Portfolio
 Portfolio ในหลักสูตร Data Science Bootcamp ของ DataRockie นะคะ 😁
 <br><img src="https://github.com/SarahAHA121/DataRockiePort/blob/main/Others/Screenshot_20221126_092620.png" width=300>
+### Saran (Sarah) Hansakul
+- Food Sciences (B.Sc.) at Kasetsart University
+- Now working in Retails, wish to learn Data Analyst skills for job improvement ❤️
 
 ## Sprint 01 - Google Sheets
 https://docs.google.com/spreadsheets/d/1XPsPYDOSERnnlj02YwQ57e3viUkd2D6G1JIVa64omGU/edit?usp=sharing
@@ -29,7 +32,8 @@ https://replit.com/@SarahAha1/batch06chatbotpizza#main.r
 - ลองสร้าง PostgreSQL server ของตัวเองบน https://www.elephantsql.com/ แล้ว write tables ขึ้นไปบน server
 
 ## Sprint 05 - Data Visualization
-
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/SarahR2.R
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/my_first_notebook.Rmd
 - ลองสร้าง 5-6 charts ด้วย ggplot และส่งการบ้านด้วย R markdown
 
 ## Sprint 06 - Essential Statistics
