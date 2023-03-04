@@ -44,6 +44,10 @@ https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/my_first_no
 - วิเคราะห์ข้อมูลด้วย AB test ง่ายๆใน Excel/ Google Sheets
 
 ## Sprint 07 - Essential Machine Learning
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/caret101.R
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/train_test_split_func.R
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/LinearReg_Model.RDS
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/TestRDS.R
 
 - สร้างโมเดลด้วย caret อย่างน้อย 2-3 โมเดล ใช้เทคนิคด้านล่าง
 - - Regression
