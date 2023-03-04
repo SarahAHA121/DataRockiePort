@@ -1,0 +1,33 @@
+---
+title: "R Notebook"
+author: "Sarah AHA"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+# **Hello World**
+
+I'm learning R markdown to create documents.
+
+```{r}
+
+print("SarahAHA! hello ka")
+mtcarsX <- mtcars
+mtcarsX %>% select(wt, mpg, hp) %>% mutate(hptype = case_when(
+  hp < 100 ~ "ต่ำ",
+  hp < 200 ~ "กลาง",
+  TRUE ~ "สูง"
+)) %>% mutate(hptype = factor(hptype, levels = c("ต่ำ","กลาง","สูง") ,ordered = T)) %>% ggplot( aes(mpg, wt, color=hptype)) + geom_point() + geom_smooth()
+```
+
+## Create New Visualization
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+ggplot(sample_n(diamonds, 500), aes(color, fill=cut)) +
+  geom_bar(position = "fill") +
+  theme_minimal()
+```
