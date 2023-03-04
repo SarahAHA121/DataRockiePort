@@ -4,6 +4,7 @@ Portfolio ในหลักสูตร Data Science Bootcamp ของ DataRoc
 ### Saran (Sarah) Hansakul
 - Food Sciences (B.Sc.) at Kasetsart University
 - Now working in Retails, wish to learn Data Analyst skills for job improvement ❤️
+- LinkedIn Profile: https://www.linkedin.com/in/sarahhansakul/
 
 ## Sprint 01 - Google Sheets
 https://docs.google.com/spreadsheets/d/1XPsPYDOSERnnlj02YwQ57e3viUkd2D6G1JIVa64omGU/edit?usp=sharing
