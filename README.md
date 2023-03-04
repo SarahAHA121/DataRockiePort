@@ -33,6 +33,7 @@ https://replit.com/@SarahAha1/batch06chatbotpizza#main.r
 
 ## Sprint 05 - Data Visualization
 https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/SarahR2.R
+https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/ggplot.R
 https://github.com/SarahAHA121/DataRockiePort/blob/main/RStudioFiles/my_first_notebook.Rmd
 - ลองสร้าง 5-6 charts ด้วย ggplot และส่งการบ้านด้วย R markdown
 
