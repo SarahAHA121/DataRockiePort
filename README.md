@@ -1,6 +1,6 @@
 # Data Science Bootcamp Portfolio
 Portfolio ในหลักสูตร Data Science Bootcamp ของ DataRockie นะคะ 😁
-![Sarah Saran Hansakul](https://github.com/SarahAHA121/DataRockiePort/blob/main/Others/Screenshot_20221126_092620.png?raw=true)
+![Sarah Saran Hansakul](https://github.com/SarahAHA121/DataRockiePort/blob/main/Others/Screenshot_20221126_092620.png?raw=true | width=300)
 
 ## Sprint 01 - Google Sheets
 https://docs.google.com/spreadsheets/d/1XPsPYDOSERnnlj02YwQ57e3viUkd2D6G1JIVa64omGU/edit?usp=sharing
